@@ -2,7 +2,7 @@
 
 A curated, sourced record of real-world incidents in which autonomous AI agents caused financial loss, data loss, or unintended actions. Every record links to a public source.
 
-**34 incidents · $2.91B tracked · CC BY 4.0 · 2016–2026**
+**34 incidents · $2$2.91B tracked · CC BY 4.0 · 2016–2026**
 
 ## Quick start
 - [Browse online](https://sipi.bot/incidents/) (filterable table)
@@ -30,7 +30,7 @@ Each record includes: title, date, organization, dollar loss (where reported), c
 This dataset is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Attribution to sipi.bot is required.
 
 ## Powered by
-This database is maintained by [sipi.bot](https://sipi.bot) — the pre-spend firewall for autonomous AI agents. One call before an agent spends returns APPROVED, BLOCKED, or FLAGGED. MIT self-host, $99/mo hosted.
+This database is maintained by [sipi.bot](https://sipi.bot) — the pre-spend firewall for autonomous AI agents. One call before an agent spends returns APPROVED, BLOCKED, or FLAGGED. MIT self-host, $9$99/mo hosted.
 
 ## Contributing
 Open an issue or PR with a link to a credible public source (news article, post-mortem, security report, official statement) and we'll add it. The database auto-refreshes weekly.
