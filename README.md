@@ -2,7 +2,7 @@
 
 A curated, sourced record of real-world incidents in which autonomous AI agents caused financial loss, data loss, or unintended actions. Every record links to a public source.
 
-**90 records (80 documented incidents + 10 aggregate statistics) · $557M in tracked direct incident losses · CC BY 4.0 · 2016–2026**
+**95 records (85 documented incidents + 10 aggregate statistics) · $557M in tracked direct incident losses · CC BY 4.0 · 2016–2026**
 
 ## Quick start
 - [Browse online](https://sipi.bot/incidents/) (filterable table)
